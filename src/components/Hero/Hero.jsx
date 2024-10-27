@@ -47,7 +47,7 @@ const Hero = ({ data, socialData }) => {
               data-aos-delay="500"
             >
               <ScrollLink className="st-btn st-style1 st-color1" to="contact">
-                Hire Me
+                Let's Connect
               </ScrollLink>
             </div>
           </div>

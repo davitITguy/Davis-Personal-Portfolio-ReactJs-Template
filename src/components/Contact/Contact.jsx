@@ -14,7 +14,7 @@ const Contact = ({ data, socialData }) => {
       <div className="container" data-aos="fade-up" data-aos-duration="800" data-aos-delay="500">
         <div className="row d-flex">
           <div className="col-lg-6">
-            <h3 className="st-contact-title">Just say Hello</h3>
+            <h3 className="st-contact-title">LET'S BUILD SOMETHING GREAT</h3>
             <div id="st-alert"></div>
             <form action="#" method="POST" className="st-contact-form" id="contact-form">
               <div className="st-form-field">
@@ -44,8 +44,7 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Email</h4>
-                  <Link to="#">devis@example.com</Link>
-                  <Link to="#">info@support.com</Link>
+                  <Link to="#">dspanderashvili@gmail.com</Link>
                 </div>
               </div>
               <div className="st-single-contact-info">
@@ -54,8 +53,7 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Phone</h4>
-                  <span>+1 876-369-9009</span>
-                  <span>+1 213-519-1786</span>
+                  <span>+995 558 49 94 00</span>
                 </div>
               </div>
               <div className="st-single-contact-info">
@@ -64,7 +62,7 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Address</h4>
-                  <span>2661 High Meadow Lane Bear Creek, <br />Olancha, KY 93544</span>
+                  <span>Tbilisi, Georgia</span>
                 </div>
               </div>
               <div className="st-social-info">

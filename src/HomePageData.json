@@ -1,40 +1,48 @@
 {
   "heroData": {
     "bgImgLink": "/images/background/hero-bg.jpg",
-    "imgLink": "/images/section/hero-img.jpg",
-    "title": "Edward <br /> Davis",
+    "imgLink": "/images/section/DavitHero.png",
+    "title": "Davit",
     "subTitle": "Hello, I’m",
-    "designation": "Visual Designer"
+    "designation": "Web Developer 🚀 "
   },
   "aboutData": {
-    "imgLink": "/images/section/about.jpg",
-    "cvPdf": "/images/Resume.pdf",
-    "title": "Hi There! I'm Edward Davis",
-    "subtitle": "Visual Designer",
-    "text": "I am a Visual Designer with a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
+    "imgLink": "/images/section/DavitHero.png",
+    "cvPdf": "/images/Davit-Spanderashvili-CV-ENG.pdf",
+    "title": "Hi There! I'm Davit Spanderashvili",
+    "subtitle": "Web Developer",
+    "text": "I am a Web Developer who seeks improvment and focused on discipline with 4 years of experience. I specialize in creating responsive, user-friendly websites and thrive on solving challenges with clean, efficient code. With a passion for continuous learning and a commitment to best practices, I deliver reliable, high-quality solutions. Let’s build something great together!",
     "details": [
       {
         "title": "Birthday",
-        "info": "May 07, 1990"
+        "info": "13 Oct, 1997"
       },
       {
         "title": "Phone",
-        "info": "+1 876-369-9009"
+        "info": "+995 558 49 94 00"
       },
       {
         "title": "Email",
-        "info": "devis@example.com"
+        "info": "dspanderashvili@gmail.coms"
       },
       {
         "title": "From",
-        "info": "2661 Hich meadow lane bear creek"
+        "info": "Tbilisi, Georgia"
       },
       {
         "title": "Language",
-        "info": "English, Germanic"
+        "info": "Georgian, English, Russian"
       },
       {
-        "title": "Freelance",
+        "title": "Remote",
+        "info": "Available"
+      },
+      {
+        "title": "On-Site",
+        "info": "Available"
+      },
+      {
+        "title": "Contract",
         "info": "Available"
       },
       {
@@ -47,96 +55,104 @@
     "services": [
       {
         "imgLink": "/images/icon/icon1.png",
-        "title": "Sketches",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Front-End",
+        "text": "I’ll join your team to handle all front-end tasks, delivering a pixel-perfect product that mirrors the design. Using modern practices, I’ll ensure the code is clean, scalable, and ready to grow with your project’s future needs.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "200"
       },
       {
         "imgLink": "/images/icon/icon2.png",
-        "title": "UI/UX Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "UI/UX Collaboration Package ",
+        "text": "I’ll work closely with the R&D team and UI/UX designer to develop the best possible design focusing on OG idea, ensuring a seamless and user-centered experience across all platforms.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "300"
       },
       {
-        "imgLink": "/images/icon/icon3.png",
-        "title": "Product Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "imgLink": "/images/icon/icon6.png",
+        "title": "Responsive Design",
+        "text": "I’ll ensure your website looks and functions flawlessly across all devices, using flexible layouts and modern techniques for a seamless experience on desktops, tablets, and smartphones.",
         "effect": "zoom-out-up",
         "duration": "500",
-        "delay": "400"
+        "delay": "700"
       },
+     
       {
         "imgLink": "/images/icon/icon4.png",
-        "title": "App Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Contract: Full-Stack and SEO Package",
+        "text": "A two-person team will cover both front-end and back-end development, ensuring smooth integration between the UI and server-side. Additionally, we’ll implement SEO optimization to enhance visibility and performance, delivering a complete, efficient, and scalable solution tailored to your project’s needs.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "500"
       },
       {
         "imgLink": "/images/icon/icon5.png",
-        "title": "Motion Graphics",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Contract: Web and Mobile Package",
+        "text": "I’ll develop cohesive web and mobile applications that provide a seamless and intuitive user experience across all platforms. Utilizing responsive design principles, I ensure that your website and mobile app adapt beautifully to various screen sizes, from desktops to tablets and smartphones.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "600"
       },
-      {
-        "imgLink": "/images/icon/icon6.png",
-        "title": "Responsive Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+       {
+        "imgLink": "/images/icon/icon3.png",
+        "title": "Contract: Project",
+        "text": "Our dedicated team, including front-end and back-end developers, a mobile developer, a project manager, a UI/UX designer, and an SEO specialist, will collaboratively manage every aspect of your project. From initial design to final deployment, we ensure a seamless, high-quality product that meets your goals, enhances visibility, and exceeds expectations.",
         "effect": "zoom-out-up",
         "duration": "500",
-        "delay": "700"
+        "delay": "400"
       }
     ]
   },
   "skillData": {
-    "title": "All the skills that I have in that field of work are mentioned.",
-    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
+    "title": "Dynamic Web Developer: Transforming Ideas into Reality",
+    "text": "As an seasoned web developer specializing in React.js and Next.js 🌐, I bring extensive experience in creating dynamic, responsive web applications. My proficiency allows me to craft modern digital solutions that captivate users and deliver seamless experiences 🚀. I’m passionate about optimizing code 🛠️ and discovering efficient practices and design patterns. Committed to high standards, I thrive in collaborative environments that drive results 🤝. I’m excited to join a team that values innovation and excellence — let’s discuss how I can contribute to your projects! 📬",
     "skills": [
       {
-        "title": "Photoshop",
-        "progress": "95%",
+        "title": "Markup - HTML5 CSS3 Sass",
+        "progress": "Vary Good",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
-        "title": "Motion Graphic",
-        "progress": "75%",
+        "title": "JS - EcmaScript6+ Advanced",
+        "progress": "Good",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
       },
       {
-        "title": "Adobe XD",
-        "progress": "90%",
+        "title": "React.js and packages",
+        "progress": "Good",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400"
       },
       {
-        "title": "UX Design",
-        "progress": "85%",
+        "title": "Next.js & Vercel",
+        "progress": "Avarage",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
       },
       {
-        "title": "HTML",
-        "progress": "80%",
+        "title": "SEO - Bots and Meta Tags",
+        "progress": "Vary Good",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
       },
       {
-        "title": "Digital Marketing",
-        "progress": "90%",
+        "title": "Git/Github",
+        "progress": "Good",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "Wordpress",
+        "progress": "Good",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
@@ -155,33 +171,6 @@
         "delay": "200"
       },
       {
-        "imgLink": "/images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
         "imgLink": "/images/portfolio/portfolio5.jpg",
         "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
         "title": "Product Design",
@@ -189,159 +178,6 @@
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
       },
       {
         "imgLink": "/images/portfolio/portfolio5.jpg",
@@ -380,48 +216,11 @@
       ]
     },
     "informations": [
-      {
-        "imgLink": "/images/blog/blog1.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "/images/blog/blog2.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "/images/blog/blog3.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "Trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "/images/blog/blog1.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "/images/blog/blog2.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "The latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "/images/blog/blog3.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      }
+      
+      
+      
+     
+      
     ]
   },
   "reviewData": {
@@ -492,21 +291,39 @@
     "experienceTitle": "Experience",
     "experience": [
       {
-        "title": "Senior UX/UI Designer",
-        "duration": "Jan 2020 - Present",
-        "subTitle": "Bergnaum, Hills and Howe",
+        "title": "Wordpress",
+        "duration": "Jul 2024 - Sept 2024 ( Contract )",
+        "subTitle": "Farmway",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       },
       {
-        "title": "Product Designer",
-        "duration": "Jan 2016 - December 2019",
-        "subTitle": "Langosh, Sipes and Raynor",
+        "title": "Wordpress",
+        "duration": "Aug 2023 - Sept 2023 ( Contract )",
+        "subTitle": "Wilbour Holding",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       },
       {
-        "title": "UI/UX Designer",
-        "duration": "Jan 2014 - December 2015",
-        "subTitle": "Strosin, Maggio and Homenick",
+        "title": "Wordpress / React.js",
+        "duration": "Mar 2023 - Oct 2023",
+        "subTitle": "Nomad Capitalist",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      },
+      {
+        "title": "Next.js / React.js / Vercel",
+        "duration": "Feb 2022 - Mar 2023",
+        "subTitle": "Sweeft Digital | A Making Science Company",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      },
+      {
+        "title": "Next.js / React.js / Vercel",
+        "duration": "Apr 2022 - Nov 2022",
+        "subTitle": "Apart Development",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      },
+      {
+        "title": "Wordpress",
+        "duration": "Dec 2021 - Jul 2022",
+        "subTitle": "Revenue Capital",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       }
     ],
@@ -533,31 +350,27 @@
     ]
   },
   "contactData": {
-    "formTitle": "Just say Hello",
+    "formTitle": "Let's get connected",
     "title": "Contact Info",
     "subTitle": "Visite my social profile and get connected",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
+    "text": "Thinking about a project or collaboration? Two heads are better then one lets connect 😊"
   },
   "socialData": [
     {
-      "icon": "dribbble",
-      "title": "Dribbble",
-      "link": "/"
+      "icon": "github",
+      "title": "Github",
+      "link": "https://github.com/davitITguy"
     },
     {
-      "icon": "behance",
-      "title": "Behance",
-      "link": "/"
+      "icon": "instagram",
+      "title": "Instagram",
+      "link": "https://www.instagram.com/davit_spanderashvili/"
     },
-    {
-      "icon": "twitter",
-      "title": "Twitter",
-      "link": "/"
-    },
+    
     {
       "icon": "linkedin",
       "title": "LinkedIn",
-      "link": "/"
+      "link": "https://www.linkedin.com/in/davit-spanderashvili-b26239173/"
     }
   ]
 }

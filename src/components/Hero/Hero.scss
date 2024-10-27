@@ -14,9 +14,9 @@
   .st-hero-img {
     position: absolute;
     right: 4%;
-    top: 0;
-    height: 100%;
-    width: 45%;
+    top: 8%;
+    height: 95%;
+    width: 40%;
     z-index: 11;
   }
 }
@@ -61,7 +61,6 @@
 }
 
 .st-social-group {
-  background-color: $dark-color4;
   border: 1px solid $base-color4;
   border-right: 0;
   border-radius: 50px 0 0 50px;

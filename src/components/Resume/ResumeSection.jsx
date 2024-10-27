@@ -12,7 +12,7 @@ const ResumeSection = ({ data }) => {
       <div className="container"  data-aos="fade-up"
               data-aos-duration="800" data-aos-delay="200">
         <div className="row">
-          <div className="col-lg-6">
+          {/* <div className="col-lg-6">
             <div className="st-height-b0 st-height-lg-b50"></div>
             <div className="st-resume-wrap">
               <div className="st-resume-heading">
@@ -30,8 +30,8 @@ const ResumeSection = ({ data }) => {
               </div>
             </div>
             <div className="st-height-b100 st-height-lg-b80"></div>
-          </div>
-          <div className="col-lg-6">
+          </div> */}
+          <div className="col-lg-12">
             <div className="st-height-b0 st-height-lg-b50"></div>
             <div className="st-resume-wrap">
               <div className="st-resume-heading">
