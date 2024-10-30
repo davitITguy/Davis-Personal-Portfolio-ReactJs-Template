@@ -1,7 +1,7 @@
 {
   "heroData": {
     "bgImgLink": "/images/background/hero-bg.jpg",
-    "imgLink": "/images/section/DavitHero.png",
+    "imgLink": "/images/section/davitwobg.png",
     "title": "Davit",
     "subTitle": "Hello, I’m",
     "designation": "Web Developer 🚀 "
@@ -162,19 +162,19 @@
   "portfolioData": {
     "portfolioItems": [
       {
-        "imgLink": "/images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "/images/portfolio/farmwaylogo.png",
+        "imgLinkLg": "/images/portfolio/farmwaylogo.png",
+        "title": "Farmway",
+        "subTitle": "visit https://farmway.ge/ for more information",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
-        "imgLink": "/images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "imgLink": "/images/portfolio/keepzlogo.svg",
+        "imgLinkLg": "/images/portfolio/keepzlogo.svg",
         "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "subTitle": "visit https://keepz.me/ for more information",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
@@ -183,7 +183,7 @@
         "imgLink": "/images/portfolio/portfolio5.jpg",
         "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
         "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "subTitle": "visit https://farmway.ge/ for more information",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
@@ -250,40 +250,40 @@
     },
     "informations": [
       {
-        "imgLink": "/images/client/client1.png",
-        "title": "Richard Miles",
-        "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "imgLink": "/images/client/george.jpeg",
+        "title": "Giorgi Akobia",
+        "designation": "Farmway",
+        "text": "The website for farmway.ge is exactly what we needed. Davit was responsive, professional, and easy to work with. We’re thrilled with the result and highly recommend their services!"
       },
       {
-        "imgLink": "/images/client/client2.png",
-        "title": "Vesta Shufelt",
-        "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "imgLink": "/images/client/nika.jpeg",
+        "title": "Nika Urushadze",
+        "designation": "Wilbour Holding",
+        "text": "The new wilbour.com perfectly reflects our brand’s identity and vision. Davit made the entire process seamless, balancing creativity with functionality. Their attention to detail and quick turnaround on feedback made a big difference."
       },
       {
-        "imgLink": "/images/client/client3.png",
-        "title": "Joseph Alves",
-        "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "imgLink": "/images/client/andrew.webp",
+        "title": "Anrew Handerson",
+        "designation": "Nomad Capitalist",
+        "text": "During Davit’s time with us at Nomad Capitalist, they played a key role in maintaining and refining our website, nomadcapitalist.com. Their attention to detail ensured the site ran smoothly, with improvements that enhanced performance and usability."
       },
       {
-        "imgLink": "/images/client/client1.png",
-        "title": "Richard Miles",
-        "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "imgLink": "/images/client/vako.jpeg",
+        "title": "Vako Turnava",
+        "designation": "Sweeft Digital",
+        "text": "Davit led a pivotal project with us at Sweeft Digital, making Apple Pay accessible in Georgia for the first time. Their leadership, technical skill, and problem-solving abilities were instrumental in delivering this groundbreaking solution on time and with great precision."
       },
       {
-        "imgLink": "/images/client/client2.png",
-        "title": "Vesta Shufelt",
-        "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "imgLink": "/images/client/bekakhoperia.jpeg",
+        "title": "Beka Khopheria",
+        "designation": "Apart Development",
+        "text": "Working with Davit on our website was a fantastic experience. They delivered a beautifully designed, creative site that perfectly captures the essence of sales at our construction development projects."
       },
       {
-        "imgLink": "/images/client/client3.png",
-        "title": "Joseph Alves",
-        "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "imgLink": "/images/client/piotr.jpeg",
+        "title": "Piotr Piasecki MBA",
+        "designation": "Revenue Capital",
+        "text": "Davit made a significant impact during their time with us at Revenue Capital by completely redesigning our website. Their vision and creativity transformed our online presence, resulting in a modern, user-friendly site that effectively communicates our services and brand identity."
       }
     ]
   },
