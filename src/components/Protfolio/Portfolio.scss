@@ -1,9 +1,14 @@
 @import "../../sass/default/variable";
+
+// #portfolio{
+//   background-color: $dark;
+// }
+
 .st-portfolio {
   display: block;
   position: relative;
   margin-bottom: 30px;
-  border-radius: 10px;
+  border-radius: 30px;
   background-color: #1d1d33;
   &:hover {
     cursor: pointer;

@@ -2,9 +2,9 @@
   "heroData": {
     "bgImgLink": "/images/background/hero-bg.jpg",
     "imgLink": "/images/section/davitwobg.png",
-    "title": "Davit",
-    "subTitle": "Hello, I’m",
-    "designation": "Web Developer 🚀 "
+    "title": "WEB DEVELOPER",
+    "subTitle": "HELLO, I'M",
+    "designation": "DAVIT SPANDERASHVILI"
   },
   "aboutData": {
     "imgLink": "/images/section/DavitHero.png",
@@ -162,8 +162,8 @@
   "portfolioData": {
     "portfolioItems": [
       {
-        "imgLink": "/images/portfolio/farmwaylogo.png",
-        "imgLinkLg": "/images/portfolio/farmwaylogo.png",
+        "imgLink": "/images/portfolio/finalsweeftlogo.png",
+        "imgLinkLg": "/images/portfolio/finalsweeftlogo.png",
         "title": "Farmway",
         "subTitle": "visit https://farmway.ge/ for more information",
         "effect": "fade-up",
@@ -171,8 +171,8 @@
         "delay": "200"
       },
       {
-        "imgLink": "/images/portfolio/keepzlogo.svg",
-        "imgLinkLg": "/images/portfolio/keepzlogo.svg",
+        "imgLink": "/images/portfolio/finalkeepzlogo.png",
+        "imgLinkLg": "/images/portfolio/finalkeepzlogo.png",
         "title": "Product Design",
         "subTitle": "visit https://keepz.me/ for more information",
         "effect": "fade-up",
@@ -180,8 +180,26 @@
         "delay": "600"
       },
       {
-        "imgLink": "/images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "imgLink": "/images/portfolio/finalfarmwaylogo.png",
+        "imgLinkLg": "/images/portfolio/finalfarmwaylogo.png",
+        "title": "Product Design",
+        "subTitle": "visit https://farmway.ge/ for more information",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/portfolio/finalwilbourlogo.png",
+        "imgLinkLg": "/images/portfolio/finalwilbourlogo.png",
+        "title": "Product Design",
+        "subTitle": "visit https://farmway.ge/ for more information",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/portfolio/finalgogourilogo.png",
+        "imgLinkLg": "/images/portfolio/finalgogourilogo.png",
         "title": "Product Design",
         "subTitle": "visit https://farmway.ge/ for more information",
         "effect": "fade-up",

@@ -26,7 +26,7 @@
     content: "";
     border: 2px solid $base-color4;
     border-radius: 50%;
-    background-color: $dark-color4;
+    background-color: $dark-color1;
     width: 13px;
     height: 13px;
     top: 0px;
@@ -70,6 +70,7 @@
   margin-left: 20px;
   border-left: 1px solid $base-color4;
 }
+
 
 @media only screen and (max-width:991px) {
   .st-resume-timeline {

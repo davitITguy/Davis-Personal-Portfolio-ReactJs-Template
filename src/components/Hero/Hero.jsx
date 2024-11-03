@@ -29,8 +29,8 @@ const Hero = ({ data, socialData }) => {
         className="st-hero st-style1 st-bg"
         style={{ backgroundImage: `url(${bgImgLink})` }}
       >
-        <div className="container">
-          <div className="st-hero-text">
+        <div className="container typewriter">
+          <div className="st-hero-text ">
             <h3 data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
               {subTitle}
             </h3>
@@ -54,7 +54,7 @@ const Hero = ({ data, socialData }) => {
         </div>
       </div>
       <div className="st-hero-img st-to-right">
-        <img className="" src={`${imgLink}`} alt="Hero" />
+        {/* <img className="" src={`${imgLink}`} alt="Hero" /> */}
         <div className="st-social-group">
           <SocialLinks data={socialData} />
         </div>
