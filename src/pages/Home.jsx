@@ -19,7 +19,7 @@ const Home = () => {
       <Skill data={skillData} data-aos="fade-right" />
       <Resume data={resumeData} />
       <PortfolioSection data={portfolioData} data-aos="fade-right" />
-      <ReviewSection data={reviewData} data-aos="fade-right" />
+      {/* <ReviewSection data={reviewData} data-aos="fade-right" /> */}
       <Contact data={contactData} socialData={socialData} data-aos="fade-right" />
     </>
   )
