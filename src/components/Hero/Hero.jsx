@@ -40,6 +40,7 @@ const Hero = ({ data, socialData }) => {
             <h2 data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
               {designation}
             </h2>
+            
             <div
               className="st-hero-btn"
               data-aos="fade-up"
@@ -48,17 +49,18 @@ const Hero = ({ data, socialData }) => {
             >
               <ScrollLink className="st-btn st-style1 st-color1" to="contact">
                 Let's Connect
+                
               </ScrollLink>
+              
             </div>
+            
           </div>
-        </div>
-      </div>
-      <div className="st-hero-img st-to-right">
-        {/* <img className="" src={`${imgLink}`} alt="Hero" /> */}
-        <div className="st-social-group">
+           <div className="st-social-group">
           <SocialLinks data={socialData} />
         </div>
+        </div>
       </div>
+     
     </section>
   );
 };

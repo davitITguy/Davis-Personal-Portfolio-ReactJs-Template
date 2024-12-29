@@ -54,7 +54,7 @@ const PortfolioSection = ({ data }) => {
               <SinglePortfolio data={element} key={index} getData={getData} />
             ))}
             <div className="col-lg-12 text-center">
-              <div className="st-portfolio-btn">
+              {/* <div className="st-portfolio-btn">
                 {showLoadMore && (
                   <button
                     className="st-btn st-style1 st-color1"
@@ -63,13 +63,13 @@ const PortfolioSection = ({ data }) => {
                     Load more
                   </button>
                 )}
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
-        <div className="st-height-b100 st-height-lg-b80"></div>
+        {/* <div className="st-height-b100 st-height-lg-b80"></div> */}
       </section>
-      {modal === true ? <Modal img={tempData[1]} title={tempData[2]} subTitle={tempData[3]} modalClose={modalClose} /> : ""}
+      {/* {modal === true ? <Modal img={tempData[1]} title={tempData[2]} subTitle={tempData[3]} modalClose={modalClose} /> : ""} */}
     </>
   );
 };

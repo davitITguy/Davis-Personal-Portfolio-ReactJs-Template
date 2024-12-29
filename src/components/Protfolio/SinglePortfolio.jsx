@@ -12,11 +12,11 @@ const SinglePortfolio = ({ data, getData }) => {
             <div className="st-portfolio-img st-zoom-in">
               <img src={imgLink} alt="portfolio" />
             </div>
-            <div className="st-portfolio-item-hover">
+            {/* <div className="st-portfolio-item-hover">
               <Icon icon="mdi:plus-circle" />
               <h5>{title}</h5>
               <p>{subTitle}</p>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

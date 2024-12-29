@@ -76,32 +76,9 @@
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "700"
-      },
-     
-      {
-        "imgLink": "/images/icon/icon4.png",
-        "title": "Contract: Full-Stack and SEO Package",
-        "text": "A two-person team will cover both front-end and back-end development, ensuring smooth integration between the UI and server-side. Additionally, we’ll implement SEO optimization to enhance visibility and performance, delivering a complete, efficient, and scalable solution tailored to your project’s needs.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "/images/icon/icon5.png",
-        "title": "Contract: Web and Mobile Package",
-        "text": "I’ll develop cohesive web and mobile applications that provide a seamless and intuitive user experience across all platforms. Utilizing responsive design principles, I ensure that your website and mobile app adapt beautifully to various screen sizes, from desktops to tablets and smartphones.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "600"
-      },
-       {
-        "imgLink": "/images/icon/icon3.png",
-        "title": "Contract: Project",
-        "text": "Our dedicated team, including front-end and back-end developers, a mobile developer, a project manager, a UI/UX designer, and an SEO specialist, will collaboratively manage every aspect of your project. From initial design to final deployment, we ensure a seamless, high-quality product that meets your goals, enhances visibility, and exceeds expectations.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "400"
       }
+     
+
     ]
   },
   "skillData": {

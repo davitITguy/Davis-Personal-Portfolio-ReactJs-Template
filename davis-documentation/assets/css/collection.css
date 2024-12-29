@@ -2013,7 +2013,8 @@ pre code {
 
 .row {
 	margin-right: -15px;
-	margin-left: -15px
+	margin-left: -15px;
+	 
 }
 
 .col-lg-1,
@@ -7115,7 +7116,8 @@ button.close {
 	padding: 0;
 	cursor: pointer;
 	background: 0 0;
-	border: 0
+	border: 0;
+
 }
 
 .modal,
@@ -7166,9 +7168,16 @@ button.close {
 	border: 1px solid rgba(0, 0, 0, .2);
 	border-radius: 6px;
 	outline: 0;
-	box-shadow: 0 3px 9px rgba(0, 0, 0, .5)
+	box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
 }
 
+
+
+.modal-right img{
+	width: 100%;
+	height: 100%;
+
+}
 .modal-backdrop {
 	position: fixed;
 	top: 0;
