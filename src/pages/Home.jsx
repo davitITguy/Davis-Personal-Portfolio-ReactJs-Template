@@ -8,6 +8,7 @@ import BlogSection from '../components/Blog/BlogSection';
 import ReviewSection from '../components/Review/ReviewSection';
 import Contact from "../components/Contact/Contact";
 import PortfolioSection from '../components/Protfolio/PortfolioSection';
+import { Analytics } from "@vercel/analytics/react"
 
 const Home = () => {
   const { heroData, aboutData, serviceData, skillData, portfolioData, blogData, resumeData, reviewData, contactData, socialData } = data;
@@ -21,6 +22,7 @@ const Home = () => {
       <PortfolioSection data={portfolioData} data-aos="fade-right" />
       {/* <ReviewSection data={reviewData} data-aos="fade-right" /> */}
       <Contact data={contactData} socialData={socialData} data-aos="fade-right" />
+      <Analytics/>
     </>
   )
 }
