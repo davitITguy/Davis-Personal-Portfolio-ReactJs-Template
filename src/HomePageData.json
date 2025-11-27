@@ -139,6 +139,33 @@
   "portfolioData": {
     "portfolioItems": [
       {
+        "imgLink": "/images/portfolio/tbcuz.png",
+        "imgLinkLg": "/images/portfolio/tbcuz.png",
+        "title": "Product Design",
+        "subTitle": "visit https://farmway.ge/ for more information",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/portfolio/space.png",
+        "imgLinkLg": "/images/portfolio/space.png",
+        "title": "Product Design",
+        "subTitle": "visit https://farmway.ge/ for more information",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/portfolio/NC.png",
+        "imgLinkLg": "/images/portfolio/NC.png",
+        "title": "Product Design",
+        "subTitle": "visit https://farmway.ge/ for more information",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
         "imgLink": "/images/portfolio/finalsweeftlogo.png",
         "imgLinkLg": "/images/portfolio/finalsweeftlogo.png",
         "title": "Farmway",
@@ -157,32 +184,15 @@
         "delay": "600"
       },
       {
-        "imgLink": "/images/portfolio/finalfarmwaylogo.png",
-        "imgLinkLg": "/images/portfolio/finalfarmwaylogo.png",
-        "title": "Product Design",
-        "subTitle": "visit https://farmway.ge/ for more information",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "/images/portfolio/finalwilbourlogo.png",
-        "imgLinkLg": "/images/portfolio/finalwilbourlogo.png",
-        "title": "Product Design",
-        "subTitle": "visit https://farmway.ge/ for more information",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "/images/portfolio/finalgogourilogo.png",
-        "imgLinkLg": "/images/portfolio/finalgogourilogo.png",
+        "imgLink": "/images/portfolio/revenue.png",
+        "imgLinkLg": "/images/portfolio/revenue.png",
         "title": "Product Design",
         "subTitle": "visit https://farmway.ge/ for more information",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
       }
+      
     ]
   },
   "blogData": {
